@@ -4,7 +4,7 @@
 # <bitbar.author>Tikkerei</bitbar.author>
 # <bitbar.author.github>tikkerei</bitbar.author.github>
 # <bitbar.desc>Control Volumio music player via BitBar</bitbar.desc>
-#TODO: <bitbar.image>http://www.hosted-somewhere/pluginimage</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/tikkerei/bitbar-volumio/master/bb_volumio.png</bitbar.image>
 # <bitbar.dependencies>bash, curl, volumio</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/tikkerei/bitbar-volumio</bitbar.abouturl>
 
